@@ -1,3 +1,3 @@
 # STUDIA
 
-# Repository for uni projects, dont mind them ;))
+## Repository for uni projects, dont mind them ;))
