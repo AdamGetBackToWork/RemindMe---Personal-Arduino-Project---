@@ -1,3 +1,5 @@
+```c++
+
 //Attributing pins on the board
 
 const int trigPin = 2;
