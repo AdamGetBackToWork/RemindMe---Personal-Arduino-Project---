@@ -16,8 +16,7 @@ And obviously if they had already checked off every button they;d be able to wal
 
 ### Here is the block diagram to visualize it all:
 
-<p align="center">
-<img ![Example Flowchart](/Block_diagram_1.png)>
+<p align="center" ![Example Flowchart](/Block_diagram_1.png)>
 </p>
 
 
