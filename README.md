@@ -5,7 +5,7 @@ A project I developed for my university assignment. An Arduino based IoT design 
 
 ## Concept of the system
 
-RemindMe 1.0 was a 3d printed little box with 5 buttons sticking out of it. On the side it had a sonic sensor to detect distance from objects passing by it. 
+**RemindMe 1.0** was a 3d printed little box with 5 buttons sticking out of it. On the side it had a sonic sensor to detect distance from objects passing by it. 
 
 The entire system was to be hang by the door with the sensor facing the door, and the buttons facing the room. 
 
@@ -28,4 +28,12 @@ Also the system was equipped in a "reset/for all" button, if the user wanted to 
 
 ## Sidenote:
 The unfortunate simplicity of the desing is due to the limited amount of components available for the project. I was given x amount of components and was sopposed to make something from them. Alse I had limited time... So here is the REMINDME 1.0!!!
+
+## Biggest challanges and what I've learned:
+
+- Programming in objective C/C++ 
+> Although I knew C++ before, applying it to a more "embedded style" project was a bit challenging at times
+> The objective C parts also gave me a bit of a hard time, but in addition to the projects required syntax elements I've learnd C!
+- Designing a working system
+> I know it sounds easy, and it probably is... but troubleshooting both electronic design and the code itself and making it work at all times 
 
