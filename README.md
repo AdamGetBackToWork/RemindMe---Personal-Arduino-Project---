@@ -16,4 +16,13 @@ And obviously if they had already checked off every button they;d be able to wal
 Here is the block diagram to visualize it all:
 
 
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
 
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
