@@ -1,4 +1,3 @@
-# [flowchart.js](http://flowchart.js.org)
 # REMINDME 1.0
 
 A project I developed for my university assignment. An Arduino based IoT design to help you remember of your daily essentials! 
