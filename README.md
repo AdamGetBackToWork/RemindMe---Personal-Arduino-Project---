@@ -19,6 +19,10 @@ And obviously if they had already checked off every button they;d be able to wal
 
 ![Example Flowchart](/Block_diagram_1.png)
 
+#### User had to check off every single button in order for the device to "let them pass". If the user only pushed 2 out of 4 buttons, and tried to walk out the room (passing by the sensor) the system would detect, that they hadn't pushed all the buttons. 
+
+Also the system was equipped in a "reset/for all" button, if the user wanted to either reset the device or check all the buttons at once.
+
 
 ##### Sidenote:
 The unfortunate simplicity of the desing is due to the limited amount of components available for the project. I was given x amount of components and was sopposed to make something from them. Alse I had limited time... So here is the REMINDME 1.0!!!
