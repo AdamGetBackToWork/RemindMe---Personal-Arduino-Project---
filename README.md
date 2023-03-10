@@ -33,7 +33,7 @@ The unfortunate simplicity of the desing is due to the limited amount of compone
 
 - Programming in objective C/C++ 
 > Although I knew C++ before, applying it to a more "embedded style" project was a bit challenging at times
-<p></p>
+> 
 > The objective C parts also gave me a bit of a hard time, but in addition to the projects required syntax elements I've learnd C!
 - Designing a working system
 > I know it sounds easy... but troubleshooting both electronic design and the code itself and making it work at all times can get challenging! 
