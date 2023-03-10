@@ -19,6 +19,13 @@ And obviously if they had already checked off every button they;d be able to wal
 <p align="center" ![Example Flowchart](/Block_diagram_1.png)>
 </p>
 
+ <img src="IMG/IMG-8381.jpg" alt="matcha" class="drink-jpg">
+ 
+ 
+
+<p align="center">
+  <img src="/Block_diagram_1.png">
+</p>
 
 #### User had to check off every single button in order for the device to "let them pass". If the user only pushed 2 out of 4 buttons, and tried to walk out the room (passing by the sensor) the system would detect, that they hadn't pushed all the buttons. 
 
