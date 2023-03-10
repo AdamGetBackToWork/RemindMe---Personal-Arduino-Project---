@@ -1,5 +1,3 @@
-[![JS.ORG](https://img.shields.io/badge/js.org-flowchart-ffb400.svg?style=flat-square)](http://js.org)
-
 # [flowchart.js](http://flowchart.js.org)
 # REMINDME 1.0
 
@@ -17,17 +15,6 @@ The idea was this: When walking out the room, user would be reminded of theirs d
 And obviously if they had already checked off every button they;d be able to walk out right of the back!
 
 Here is the block diagram to visualize it all:
-
-
-flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
 
 
 ![Example Flowchart](/imgs/example.svg)
