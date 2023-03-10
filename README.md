@@ -15,7 +15,7 @@ When walking out the room, user would be reminded of theirs daily essentials. Wh
 And obviously if they had already checked off every button they;d be able to walk out right of the back!
 
 ### Here is the block diagram to visualize it all:
-<p></p>
+  
 <p align="center">
   <img src="/Block_diagram_1.png">
 </p>
