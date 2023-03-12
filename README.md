@@ -32,7 +32,7 @@ The unfortunate simplicity of the desing is due to the limited amount of compone
 ## Biggest challanges and what I've learned:
 
 - Programming in objective C/C++ 
-> Although I've known C++ for a while now, applying it to a more "embedded style" project was a bit challenging at times, As in my case, using it before was limited to a "theoretical" purposes only 
+> Although I've known C++ for a while now, applying it to a more "embedded style" project was a bit challenging at times, as in my case, using it before was limited to a "theoretical" purposes only 
 > 
 > The objective C parts also gave me a bit of a hard time, but in addition to the projects required syntax elements I've learnd C!
 - Designing a working system
