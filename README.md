@@ -5,7 +5,7 @@ A project I developed for my university assignment. An Arduino based IoT design 
 
 ## Concept of the system
 
-**RemindMe 1.0** was a 3d printed little box with 5 buttons sticking out of it. On the side it had a sonic sensor to detect distance from objects passing by it. 
+**RemindMe 1.0** was an Arduino based system. It was a 3d printed little box with 5 buttons sticking out of it. On the side it had a sonic sensor to detect distance from objects passing by it. 
 
 The entire system was to be hang by the door with the sensor facing the door, and the buttons facing the room. 
 
@@ -36,5 +36,5 @@ The unfortunate simplicity of the desing is due to the limited amount of compone
 > 
 > The objective C parts also gave me a bit of a hard time, but in addition to the projects required syntax elements I've learnd C!
 - Designing a working system
-> I know it sounds easy... but troubleshooting both electronic design and the code itself and making it work at all times can get challenging! 
+> I know it sounds easy... but troubleshooting both electronic design (Arduino based) and the code itself and making it work at all times can get challenging! 
 
