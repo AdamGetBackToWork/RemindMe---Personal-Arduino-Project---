@@ -25,6 +25,11 @@ User had to check off every single button in order for the device to "let them p
 
 Also the system was equipped in a "reset/for all" button, if the user wanted to either reset the device or check all the buttons at once.
 
+### Schematic diagram of the circuit:
+
+<p align="center">
+  <img src="/RemindMe - circuit diagram.jpg">
+</p>
 
 ## Sidenote:
 The unfortunate simplicity of the desing is due to the limited amount of components available for the project. I was given x amount of components and was sopposed to make something from them. Alse I had limited time... So here is the REMINDME 1.0!!!
