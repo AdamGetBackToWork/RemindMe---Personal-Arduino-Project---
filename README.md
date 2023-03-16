@@ -41,5 +41,5 @@ The unfortunate simplicity of the desing is due to the limited amount of compone
 > 
 > The objective C parts also gave me a bit of a hard time, but in addition to the projects required syntax elements I've learnd C!
 - Designing a working system
-> I know it sounds easy... but troubleshooting both electronic design (Arduino based) and the code itself and making it work at all times can get challenging! 
+> I know it sounds easy... but troubleshooting both electronic design (Arduino based) and the code itself and making it work at all times can get tough! 
 
