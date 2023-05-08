@@ -153,10 +153,21 @@ switch (Program_State) {
 
     //When a button state changes, this will save its changed state to the "state_memory" array
 
-    if (buttonState1 == 1) state_memory[0] = 1;
-    if (buttonState2 == 1) state_memory[1] = 1;
-    if (buttonState3 == 1) state_memory[2] = 1;
-    if (buttonState4 == 1) state_memory[3] = 1; 
+    if (buttonState1 == 1) {
+      state_memory[0] = 1;
+    }
+    
+    if (buttonState2 == 1) {
+      state_memory[1] = 1;
+    }
+    
+    if (buttonState3 == 1) {
+      state_memory[2] = 1;
+    }
+    
+    if (buttonState4 == 1)  {
+      state_memory[3] = 1; 
+    }
 
     //Condition to end the "HUMAN_ACTION" state and move forward
 
@@ -167,7 +178,7 @@ switch (Program_State) {
     } else if (state_memory[0] == 1 && state_memory[1] == 1 && state_memory[2] == 1 && state_memory[3] == 1) {
       
        Program_State = zero_ing;
-
+      
     }
     break;
 
@@ -175,9 +186,13 @@ switch (Program_State) {
 
    buttonStateG = digitalRead(buttonPinG);
 
-   if (buttonStateG == 1) state_memory[4] = 1; 
+   if (buttonStateG == 1) {
+     state_memory[4] = 1; 
+   }
 
-    if (state_memory[4] == 1) Program_State = zero_ing;
+   if (state_memory[4] == 1) {
+     Program_State = zero_ing;
+   }
 
   case zero_ing:
 
