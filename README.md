@@ -3,7 +3,7 @@
 A project I developed for my university assignment. An Arduino based IoT design to help you remember of your daily essentials! 
 
 
-## Concept of the system
+## System concept
 
 **RemindMe 1.0** was an Arduino based system. It was a 3d printed little box with 5 buttons sticking out of it. On the side it had a sonic sensor to detect distance from objects passing by it. 
 
