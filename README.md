@@ -10,9 +10,7 @@ A project I developed for my university assignment. An Arduino based IoT design 
 The entire system was to be hang by the door with the sensor facing the door, and the buttons facing the room. 
 
 ## The idea was this: 
-When walking out the room, user would be reminded of theirs daily essentials. When walking pass by the distance sensor, then the system would check if the person "checked off" every button on the systems interface. If not the system start to create disturbing sound to remind the user of their forgetfulness! They would go back, check whether they took their daily essentials or not, then check off the buttons assigned to each item, and would out the door peacfully! 
-
-And obviously if they had already checked off every button they;d be able to walk out right of the back!
+Upon exiting the room, the individual would receive a subtle reminder regarding their daily necessities. Upon traversing past the distance sensor, the system would ascertain whether all the buttons on the interface have been properly marked by the user. Should any omission be detected, the system would initiate a sequence of attention-grabbing sounds, prompting the user to address their momentary lapse. Subsequently, the user would retrace their steps, verify the presence of their daily essentials, meticulously mark each corresponding button, and then proceed to depart serenely. Naturally, if every button has been previously acknowledged, they would be at liberty to exit without any hindrance.
 
 ### Here is the block diagram to visualize it all:
   
