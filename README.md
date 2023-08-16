@@ -19,9 +19,9 @@ Upon exiting the room, the individual would receive a subtle reminder regarding 
 </p>
 
 ### Buttons
-User had to check off every single button in order for the device to "let them pass". If the user only pushed 2 out of 4 buttons, and tried to walk out the room (passing by the sensor) the system would detect, that they hadn't pushed all the buttons. 
+The user was required to mark each individual button to gain clearance from the device. In instances where the user interacted with only 2 out of the 4 buttons and subsequently attempted to exit the room, passing by the sensor, the system possessed the capability to discern the incomplete button selection.
 
-Also the system was equipped in a "reset/for all" button, if the user wanted to either reset the device or check all the buttons at once.
+Furthermore, the system featured a dedicated "reset" or "all buttons" option. This provided the user with the flexibility to either reset the device entirely or simultaneously mark all the buttons in a single action, if desired.
 
 ### Schematic diagram of the circuit:
 
